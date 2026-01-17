@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="1.0" y="1.0" width="510" height="510" fill="none" stroke="#DDDDDD" stroke-width="2"/>
+  <g id="outline" opacity="0.0">
+    <path d="M 60.86 203.64 L 215.94 187.27 L 248.09 51.89 L 293.24 42.67 L 349.44 183.40 L 393.62 186.08 L 440.57 89.80 L 469.33 255.05 L 407.72 383.39 L 345.85 373.32 L 284.77 252.50 L 232.00 384.55 L 206.48 389.24 L 172.27 469.33 L 42.67 457.26 L 60.86 203.64 Z" fill="none" stroke="#777777" stroke-width="2"/>
+  </g>
+  <g id="dots">
+      <circle cx="228.93" cy="296.06" r="6.09" fill="#111111"/>
+      <circle cx="57.99" cy="428.36" r="6.89" fill="#111111"/>
+      <circle cx="416.83" cy="366.60" r="6.94" fill="#111111"/>
+      <circle cx="61.66" cy="309.21" r="7.06" fill="#111111"/>
+      <circle cx="100.71" cy="342.43" r="8.48" fill="#111111"/>
+      <circle cx="219.44" cy="219.82" r="9.11" fill="#111111"/>
+      <circle cx="80.18" cy="284.96" r="9.65" fill="#111111"/>
+      <circle cx="65.39" cy="270.48" r="10.54" fill="#111111"/>
+      <circle cx="70.02" cy="388.67" r="13.47" fill="#111111"/>
+      <circle cx="65.94" cy="293.20" r="26.00" fill="#111111"/>
+  </g>
+</svg>

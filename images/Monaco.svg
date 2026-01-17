@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="1.0" y="1.0" width="510" height="510" fill="none" stroke="#DDDDDD" stroke-width="2"/>
+  <g id="dots">
+      <circle cx="469.33" cy="42.67" r="9.24" fill="#111111"/>
+      <circle cx="42.67" cy="277.21" r="9.24" fill="#111111"/>
+      <circle cx="71.26" cy="469.33" r="9.93" fill="#111111"/>
+      <circle cx="133.24" cy="323.69" r="16.58" fill="#111111"/>
+      <circle cx="303.33" cy="219.69" r="18.73" fill="#111111"/>
+      <circle cx="162.31" cy="269.65" r="26.00" fill="#111111"/>
+  </g>
+</svg>

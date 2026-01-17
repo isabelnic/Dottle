@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect x="1.0" y="1.0" width="510" height="510" fill="none" stroke="#DDDDDD" stroke-width="2"/>
+  <g id="outline" opacity="0.0">
+    <path d="M 151.86 442.05 L 56.46 336.25 L 42.67 42.67 L 361.27 160.46 L 469.33 469.33 L 290.37 421.28 L 151.86 442.05 Z" fill="none" stroke="#777777" stroke-width="2"/>
+  </g>
+  <g id="dots">
+      <circle cx="506.64" cy="506.64" r="5.36" fill="#111111"/>
+      <circle cx="505.67" cy="6.33" r="6.33" fill="#111111"/>
+      <circle cx="505.20" cy="505.20" r="6.80" fill="#111111"/>
+      <circle cx="337.93" cy="201.78" r="7.59" fill="#111111"/>
+      <circle cx="503.06" cy="503.06" r="8.94" fill="#111111"/>
+      <circle cx="397.65" cy="384.99" r="16.66" fill="#111111"/>
+      <circle cx="486.00" cy="486.00" r="26.00" fill="#111111"/>
+  </g>
+</svg>
