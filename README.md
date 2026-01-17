@@ -1,21 +1,21 @@
-# IN THE TOP DOTTLE FODLER to run locally:
+# A Geography guessing game
+
+**Goal:** is to guess the name of the country
+
+**Information recieved:**
+1. Dots representing the locations of the top 10 cities in that country. If the country has fewer than 10, then all cities will be shown. Dot sizes are proportional to city population sizes, with the highest populated city being the same size for each country and the smaller cities being scaled to that one.
+*The next pieces of information are revieled after a certain number of wrong guesses, in this order*
+2. The populations of the top 3 cities
+3. The elavations of the top 3 cities
+4. The rough outline of the country
+5. The 3rd most populated city name
+6. The 2nd most populated city name
+7. The most populated city name
+9. The flag 
+**No more guesses left**
+10. The country answer is reviled
+
+
 npm run dev
 
 
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
